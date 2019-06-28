@@ -26,7 +26,7 @@ Steps:
     COPY nginx.conf /etc/nginx/nginx.conf
 
     WORKDIR /usr/share/nginx/html
-    COPY --from=builder /usr/src/app/dist/angular-docker-app/ .```  
+    COPY --from=builder /usr/src/app/dist/angular-docker-app/ . 
     
 3. Create nginix.conf file 
     ```
