@@ -1,6 +1,13 @@
 # angular-docker-app
 Angular Docker Application
 
+## In order to use this repo code as it is:
+
+1. clone this repo
+2. Follow only 4,5,6 steps mentioned below
+
+
+## In order create new Angular docker application from scratch
 
 Steps:
 
